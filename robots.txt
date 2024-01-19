@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow:/404.html
+
+
+Allow: /sitemap.xml
+Sitemap: https://gioieditalia.it/sitemap.xml
